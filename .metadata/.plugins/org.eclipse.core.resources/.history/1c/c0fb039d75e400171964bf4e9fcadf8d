@@ -1,0 +1,12 @@
+package nnn00;
+
+public class jv03 {
+
+	public static void main(String[] args) {
+		// HelloWorld
+		
+		System.out.println("おはよう");
+
+	}
+
+}
