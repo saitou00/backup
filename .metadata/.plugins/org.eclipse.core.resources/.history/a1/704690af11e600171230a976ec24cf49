@@ -1,0 +1,22 @@
+
+public class Smartphone extends Mp3player {
+
+	public void call(){
+		System.out.println(x);
+	}
+
+	public void mail(){
+		System.out.println(x);
+	}
+
+	public void photo(){
+		System.out.println(x);
+	}
+
+	public void internet(){
+		System.out.println(x);
+	}
+
+
+
+}

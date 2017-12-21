@@ -1,0 +1,31 @@
+
+public class Phone {
+	public void play(){
+		System.out.println(x);
+	}
+
+	public void stop(){
+		System.out.println(x);
+	}
+
+	public void next(){
+		System.out.println(x);
+	}
+
+	public void back(){
+		System.out.println(x);
+	}
+
+	public void phone(){
+		System.out.println(x);
+	}
+
+	public void mail(){
+		System.out.println(x);
+	}
+
+	public void photo(){
+		System.out.println(x);
+	}
+
+}

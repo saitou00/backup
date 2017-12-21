@@ -1,0 +1,4 @@
+
+public class Smartphone5 extends phone5 implements Mp3player,Newfunction {
+
+}

@@ -1,0 +1,13 @@
+
+public class Android {
+
+	public static void main(String[] args){
+
+		Smartphone3 android = new Smartphone3();
+
+		android.play();
+		and
+
+	}
+
+}

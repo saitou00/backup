@@ -1,0 +1,17 @@
+
+public class Iphone {
+
+	public static void main(String[] args){
+		Smartphone iphone = new Smartphone();
+
+		iphone.play();
+		iphone.back();
+		iphone.next();
+		iphone.back();
+
+		Smartphone4 Iphone4 = new Smartphone4();
+
+	}
+
+
+}

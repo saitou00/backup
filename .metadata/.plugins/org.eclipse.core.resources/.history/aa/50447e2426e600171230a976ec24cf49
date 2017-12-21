@@ -1,0 +1,20 @@
+
+public class phone5 {
+
+	public void play(){
+	    System.out.println(x);
+	}
+
+	public void(){
+		System.out.println(x);
+	}
+
+	public void (){
+		System.out.println(x);
+	}
+
+	public void (){
+
+	}
+
+}

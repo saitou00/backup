@@ -1,0 +1,30 @@
+
+public class person {
+
+	private String name = null;
+	private int age = 0;
+	private String address ="aa@co.jp"
+
+	public String getName(){
+		return this.name;
+	}
+
+	public void setNme(String name){
+		this.name=name;
+	}
+
+	public int getAge(){
+		return this.age;
+	}
+
+	public void setAge(int age){
+		this.age=age;
+	}
+
+
+	public Person(String name, int age){
+		this.name=name;
+		this.age=age;
+	}
+
+}
