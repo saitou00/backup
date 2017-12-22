@@ -1,0 +1,16 @@
+
+public class Kurikaeshi {
+	public static void main(String[] args){
+
+//練習４-１
+
+		for(int i=0;i<=10;i++)
+		System.out.println("SMAP");
+
+		for(int i=3;i<=27;i*3)
+			System.out.println(i);
+
+
+	}
+
+}

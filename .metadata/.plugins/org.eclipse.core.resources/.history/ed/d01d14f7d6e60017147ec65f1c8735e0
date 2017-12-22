@@ -1,0 +1,24 @@
+
+public class Practice00other {
+  public static void main(String[] args){
+
+
+//問１
+
+	System.out.println("Hello World");
+
+//問２
+
+	int x =11;
+
+	System.out.println("x="+x);
+
+//問３
+
+	int n=13,y=17;
+	System.out.println("n="+n+"y="+y);
+
+
+  }
+
+}

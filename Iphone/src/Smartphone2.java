@@ -1,5 +1,5 @@
 
-public class Smartphone2 {
+public class Smartphone2 extends Smartphone {
 
 	public void play(){
 		System.out.println("再生(ハイレゾ機能)");

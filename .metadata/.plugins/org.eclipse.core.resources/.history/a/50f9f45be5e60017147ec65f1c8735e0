@@ -1,0 +1,29 @@
+
+
+
+public class Practice01Other {
+	public static void main(String[] args){
+
+//問１
+		int x,y;
+
+		x=8;
+		y=6;
+
+		if(x>y){
+			System.out.println("xはyより大きい");
+		}
+
+		int n=2;
+
+		if(n==0){
+			System.out.println("0です");
+		}else if(n>=0){
+			System.out.println("正です");
+		}else {
+			System.out.println("負です");
+		}
+
+	}
+
+}

@@ -1,0 +1,13 @@
+
+public class Practice01Other {
+	public static void main(String[] args){
+
+//問１
+		int x,y;
+
+		x=5;
+		y=6;
+
+	}
+
+}

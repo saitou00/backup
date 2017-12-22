@@ -17,6 +17,15 @@ public class Iphone {
 		Iphone4.call();
 		Iphone4.mail();
 
+		Smartphone5 Iphone5 = new Smartphone5();
+		Iphone5.play();
+		Iphone5.back();
+		Iphone5.next();
+		Iphone5.stop();
+		Iphone5.call();
+		Iphone5.mail();
+		Iphone5.internet();
+
 
 	}
 
